@@ -1,0 +1,7 @@
+[user]
+	email = antanas.sinica@gmail.com
+	name = Antanas Sinica
+[push]
+	default = simple
+[core]
+	autocrlf = input
